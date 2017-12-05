@@ -3308,4 +3308,5 @@
     Private Sub btnQuit_Click(sender As Object, e As EventArgs) Handles btnQuit.Click
         Me.Close()
     End Sub
+    'comment
 End Class
